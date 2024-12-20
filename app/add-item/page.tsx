@@ -20,7 +20,7 @@ const AddItem :React.FC = () => {
                 setDescription("");
                 setName("");
                 console.log(res.data);
-                setMessage('item successfuly added')
+                setMessage('item successfully  added')
 
 
                 
